@@ -24,13 +24,13 @@ repository               : "aryabhaskara.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Arya Bhaskara Adiprabowo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Researcher in Energy Conversion Technology and Machine Learning."
+  location         : "Jakarta, Indonesia"
+  employer         : "National Research and Innovation Agency Republic of Indonesia (BRIN RI)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "arya008@brin.go.id" 
 
   # Academic websites
   academia         : # URL
