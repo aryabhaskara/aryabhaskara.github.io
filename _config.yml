@@ -35,14 +35,14 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=-CqeSVoAAAAJ&hl=id"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-0958-3279
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-  scopus           : # URL
+  scopus           : "http://www.scopus.com/inward/authorDetails.url?authorID=58902811100&partnerID=MN8TOARS"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
